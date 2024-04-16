@@ -1,2 +1,3 @@
 neptun kód
 név: Boga Áron
+szak:
